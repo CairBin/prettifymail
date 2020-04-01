@@ -1,6 +1,8 @@
 # prettifymail
 Typecho LoveKKComment插件reply模板的美化
 
+将reply.html放到LoveKKComment插件的theme目录下
+
 变量：
 
 > 1. {blogUrl}：博客地址
